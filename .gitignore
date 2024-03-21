@@ -1,0 +1,13 @@
+# Dependency directories
+/node_modules
+
+# Build files
+/dist
+/.cache
+
+# Environment variables
+.env
+
+# IDE-specific files (optional, depends on your preference)
+# /.idea
+# /.vscode
